@@ -1,0 +1,4 @@
+I am learning Node.js because it is a powerful, fast, and scalable backend technology. 
+With Node.js, I can build efficient web applications and APIs, and I love its non-blocking 
+asynchronous architecture. My goal is to become proficient in full-stack JavaScript development.
+
